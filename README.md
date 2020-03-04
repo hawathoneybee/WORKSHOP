@@ -1,2 +1,2 @@
 # WORKSHOP
-Familiarisation on GITHUB
+Familiarisation of GITHUB
