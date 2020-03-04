@@ -1,0 +1,2 @@
+# WORKSHOP
+Familiarisation on GITHUB
